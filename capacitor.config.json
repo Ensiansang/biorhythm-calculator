@@ -1,0 +1,17 @@
+{
+  "appId": "com.humm.biorhythms",
+  "appName": "Biorhythms",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "server": {
+    "url": "http://192.168.56.1:3000",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
